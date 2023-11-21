@@ -29,7 +29,8 @@ class Voiture():
         print(f"Vitesse = {self.vitesse}.km")
         
     def Car_Stats(self):
-        print(f"""Marque : {self.marque}
+        print(f"""STATS
+              Marque : {self.marque}
               Modele : {self.model}
               Moteur: {self.moteur}
               """)

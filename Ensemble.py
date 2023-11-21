@@ -1,0 +1,1 @@
+ngzkl = float(input("Input "))
