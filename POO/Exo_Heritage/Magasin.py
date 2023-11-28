@@ -140,5 +140,6 @@ class PersonHandler():
             person1 = Customer(Nom, Prenom, DdN)
         elif Statut == "Employe":
             person1 = Employe(Nom, Prenom, DdN)
+        print("Handler")
             
         

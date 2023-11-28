@@ -52,7 +52,7 @@ class Voiture():
 
 def main():
     voiture_n = Voiture()
-    voiture_n.afficherVoiture
+    
 
 
 
